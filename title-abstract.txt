@@ -1,5 +1,5 @@
 Title:
-News Classification with Named-Entity Recognition and AutoPhrase
+Text Classification with Named-Entity Recognition and AutoPhrase
 
 Abstract:
 Text Classification (TC) and Named-Entity Recognition (NER) are two fundamental tasks for many Natural Language Processing (NLP) applications, which involve understanding, extracting information, and categorizing the text. In order to achieve these goals, we utilized AutoPhrase and a pre-trained language NER model to extract quality phrases. Using these as part of our features, we are able to achieve very high performance for a five-class and a twenty-class text classification dataset. Our project will follow a similar setting as previous works with train, validation, and test datasets and comparing the results across different methods.
